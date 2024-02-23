@@ -1,3 +1,11 @@
 {
-  "cSpell.words": ["flaskr", "pyfile"]
+  "cSpell.words": [
+    "appcontext",
+    "AUTOINCREMENT",
+    "DECLTYPES",
+    "executescript",
+    "flaskr",
+    "pyfile",
+    "werkzeug"
+  ]
 }
